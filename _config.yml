@@ -50,7 +50,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-remote_theme: jeffreytse/jekyll-theme-plainwhite
+remote_theme: jeffreytse/jekyll-theme-plainwhite@master
 
 
 header_includes:
