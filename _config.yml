@@ -1,0 +1,78 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+
+author: "Cecilie Olesen Recke"
+
+
+# Optional: Disable dark mode if you want to use your own background color
+plainwhite:
+  name: "Cecilie Olesen Recke"
+  tagline: "PhD student"
+  navigation: 
+    - title: "Research"
+      url: "/Research/"
+    - title: "Talks and Activities"
+      url: "/Talks/"
+    - title: "Teaching"
+      url: "/Teaching/"
+  dark_mode: false
+  portfolio_image: "assets/portfolio.png"
+  social_links:
+    github:  cecilie2424
+    email: cor@math.ku.dk
+
+# The social links that appear in the sidebar
+social_links:
+  github:  cecilie2424
+  email: cor@math.ku.dk
+
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+theme: plainwhite
+
+
+header_includes:
+  - '<link rel="stylesheet" href="/assets/css/main.css">'
+
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
