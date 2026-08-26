@@ -7,9 +7,10 @@ layout: home
 
 # Cecilie Olesen Recke
 
-I am a postdoc at the Department of Mathematical Sciences at University of Copenhagen with Elisenda Feliu. I finished my PhD at the University of Copenhagen supervised by Niels Richard Hansen in 2026, it was titled [Identifiability in Statistical Models via Algebraic Geometry](https://www.math.ku.dk/bibliotek/arkivet/phd-theses/2026/phd26cor.pdf). The main topic of my PhD thesis is
-proving identifiability in several new types of graphical models (continuous and discrete Lyapunov models) using tools from 
+I am a postdoc at the Department of Mathematical Sciences at University of Copenhagen with Elisenda Feliu. I finished my PhD at the University of Copenhagen supervised by Niels Richard Hansen in 2026, titled [Identifiability in Statistical Models via Algebraic Geometry](https://www.math.ku.dk/bibliotek/arkivet/phd-theses/2026/phd26cor.pdf). The main topic of my PhD thesis is proving identifiability in several new types of graphical models (continuous and discrete Lyapunov models) using tools from 
 algebraic geometry. The PhD thesis also includes estimation methods based on these results. 
+
+Research interests: Algebraic statistics, graphical models, causality, applied algebraic geometry
 
 
 Non-mathematical interests include: knitting, reading, baking and walking
