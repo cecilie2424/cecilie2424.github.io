@@ -5,6 +5,7 @@ permalink: /Research/
 ---
 
 ### Preprints
+* [Identifiability and Estimation in Continuous Lyapunov Models](https://arxiv.org/abs/2603.17142) with Niels Richard Hansen. 
 * [Identifiability in Graphical Discrete Lyapunov Models](https://arxiv.org/abs/2601.21818) with Sarah Lumpp, Nataliia Kushnerchuk, Janike Oldekop, Jiayi Li, Jane Ivy Coons and Elina Robeva. [Code](https://github.com/cecilie2424/Local-Identifiability-in-Non-Gaussian-Discrete-Lyapunov-Models)
 
 ### Publications
@@ -13,5 +14,6 @@ permalink: /Research/
 
 ### Working Projects 
 
-* **Linear non-Gaussian Steady-state Models** with Alex Markham, Jeffrey Adams and Niels Richard Hansen
-* **Identifiability and Estimation in Continuous Lyapunov Models** with Niels Richard Hansen 
+* **Causal Inference with Latent Operator-Selfdecomposable Distributions** with Alex Markham and Niels Richard Hansen
+* **Interventions and Estimation for Discrete Lyapunov Models** with Sarah Lumpp
+* **Structure Learning for Continuous Lyapunov Models** with Elina Robeva 

@@ -7,11 +7,9 @@ layout: home
 
 # Cecilie Olesen Recke
 
-I am a third year PhD student at the Department of Mathematical Sciences at University of Copenhagen under supervision of Niels Richard Hansen. I am a part of the Copenhagen Causality Lab (CoCaLa). 
-
-My research interests are centered around solving problems arising from the real world, for example within statistics (especially related to causality) or biology, using tools from algebraic geometry, combinatorics, graph theory and linear algebra. The main topic of my PhD thesis is
+I am a postdoc at the Department of Mathematical Sciences at University of Copenhagen with Elisenda Feliu. I finished my PhD at the University of Copenhagen supervised by Niels Richard Hansen in 2026, it was titled Identifiability in Statistical Models via Algebraic Geometry([Link to my thesis](https://www.math.ku.dk/bibliotek/arkivet/phd-theses/2026/phd26cor.pdf)). The main topic of my PhD thesis is
 proving identifiability in several new types of graphical models (continuous and discrete Lyapunov models) using tools from 
-algebraic geometry. The PhD thesis will also include estimation methods based on these results. 
+algebraic geometry. The PhD thesis also includes estimation methods based on these results. 
 
 
 Non-mathematical interests include: knitting, reading, baking and walking
