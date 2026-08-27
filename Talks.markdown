@@ -5,7 +5,7 @@ permalink: /Talks/
 ---
 
 ### Talks and Conferences
-* (upcoming) Participant in semester program *Metric Algebraic Geometry: Going Global, ICERM, Brown University, January 20th-April 23rd 2027 
+* (upcoming) Participant in semester program *Metric Algebraic Geometry: Going Global*, ICERM, Brown University, January 20th-April 23rd 2027 
 
 * (upcoming) Invited talk in minisymposium and organizing a separate minisymposium at *European Women in Mathematics Meeting*, University of Warwick, England, September 2026 
 
