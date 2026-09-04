@@ -6,9 +6,10 @@ permalink: /Research/
 
 ### Preprints
 * [Identifiability and Estimation in Continuous Lyapunov Models](https://arxiv.org/abs/2603.17142) with Niels Richard Hansen. 
-* [Identifiability in Graphical Discrete Lyapunov Models](https://arxiv.org/abs/2601.21818) with Sarah Lumpp, Nataliia Kushnerchuk, Janike Oldekop, Jiayi Li, Jane Ivy Coons and Elina Robeva. [Code](https://github.com/cecilie2424/Local-Identifiability-in-Non-Gaussian-Discrete-Lyapunov-Models)
+
 
 ### Publications
+* [Identifiability in Graphical Discrete Lyapunov Models](https://arxiv.org/abs/2601.21818) with Sarah Lumpp, Nataliia Kushnerchuk, Janike Oldekop, Jiayi Li, Jane Ivy Coons and Elina Robeva. Accepted with a minor revision at Electronic Journal of Statistics. [Code](https://github.com/cecilie2424/Local-Identifiability-in-Non-Gaussian-Discrete-Lyapunov-Models)
 * [Completions to Discrete Probability Distributions in Log-linear Models](https://msp.org/astat/2024/15-2/p04.xhtml)  with May Cai and Thomas Yahl, published in Algebraic Statistics, 2024, Vol. 15, No. 2, 225-247. 
 
 
