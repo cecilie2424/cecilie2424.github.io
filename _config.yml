@@ -25,14 +25,14 @@ author: "Cecilie Olesen Recke"
 # Optional: Disable dark mode if you want to use your own background color
 plainwhite:
   name: "Cecilie Olesen Recke"
-  tagline: "PhD student"
+  tagline: "Postdoc"
   navigation: 
     - title: "Research"
       url: "/Research/"
     - title: "Talks and Activities"
       url: "/Talks/"
-    - title: "Teaching"
-      url: "/Teaching/"
+    - title: "Teaching and Service"
+      url: "/Teaching-and-Service/"
   dark_mode: false
   portfolio_image: "assets/portfolio.png"
   social_links:

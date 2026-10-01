@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching and Service
-permalink: /Teaching and Service/
+permalink: /Teaching-and-Service/
 ---
 
 ### Teaching Experience 
