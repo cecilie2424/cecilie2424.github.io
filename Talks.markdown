@@ -39,4 +39,4 @@ permalink: /Talks/
 ### Organization 
 * I co-organized a minisymposium on Algebraic statistics with Sarah Lumpp at *European Women in Mathematics Meeting*, University of Warwick, England, September 2026 
 
-* I co-organized a two-day Women in mathematics conference at University of Copenhagen, Denmark
+* I co-organized a two-day Women in mathematics conference at University of Copenhagen, Denmark, May 2024
