@@ -5,9 +5,11 @@ permalink: /Talks/
 ---
 
 ### Talks and Conferences
-* (upcoming) Participant in semester program *Metric Algebraic Geometry: Going Global*, ICERM, Brown University, January 20th-April 23rd 2027 
+* (upcoming) Participant in semester program *Metric Algebraic Geometry: Going Global*, ICERM, Brown University, January 20th-April 23rd 2027
 
-* (upcoming) Invited talk in minisymposium and organizing a separate minisymposium at *European Women in Mathematics Meeting*, University of Warwick, England, September 2026 
+* (upcoming) Seminar talk at Applied CATS Seminar, KTH, Stockholm, Sweden, November 2026
+
+*  Invited talk in minisymposium and organizing a separate minisymposium at *European Women in Mathematics Meeting*, University of Warwick, England, September 2026 
 
 * *Workshop for Women in the Mathematics of Data Science*, University of British Columbia, Canada, August 2026
 
@@ -32,3 +34,9 @@ permalink: /Talks/
 * *Apprenticeship week: Varietes from Statistics, Algebraic statistics from Ecological and Biological Systems*, long programme on Algebraic statistics and our changing world, Institute for Mathematical and Statistical Innovation
 
 * *ETH-UCPH-TUM workshop*, TU Munich, October 2022
+
+
+### Organization 
+* I co-organized a minisymposium on Algebraic statistics with Sarah Lumpp at *European Women in Mathematics Meeting*, University of Warwick, England, September 2026 
+
+* I co-organized a two-day Women in mathematics conference at University of Copenhagen, Denmark
